@@ -1,0 +1,21 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Lab1 FER201m",
+  "main": "aboutus.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "aboutus.html",
+    "lite": "lite-server"
+  },
+  "author": "Tran Vinh",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}

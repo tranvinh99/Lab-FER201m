@@ -1,0 +1,31 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "LAB 2 - FER201m",
+  "main": "index.html",
+  "scripts": {
+    "start": "index.html",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranvinh99/Lab2.git"
+  },
+  "author": "Tran Vinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranvinh99/Lab2/issues"
+  },
+  "homepage": "https://github.com/tranvinh99/Lab2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
